@@ -1,0 +1,18 @@
+{
+  "name": "assignmnet_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exersice_controller.mjs",
+  "scripts": {
+    "nodemon": "excersice_controller.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -V -L excersice_controller.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.12"
+  }
+}
